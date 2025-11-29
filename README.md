@@ -1,10 +1,10 @@
 # POC WRITER PRO - Neo-Brutalist Edition
 
-[![Deploy to GitHub Pages](https://github.com/YOUR_USERNAME/poc-writer-pro-brutalist/workflows/Deploy/badge.svg)](https://github.com/YOUR_USERNAME/poc-writer-pro-brutalist/actions)
+[![Deploy to GitHub Pages](https://github.com/wilkerHop/poc-writer-pro-brutalist/workflows/Deploy/badge.svg)](https://github.com/wilkerHop/poc-writer-pro-brutalist/actions)
 
 > **A bold, in-your-face guide to writing technical Proof of Concept articles that developers actually read.**
 
-🔗 **[LIVE DEMO](https://YOUR_USERNAME.github.io/poc-writer-pro-brutalist/)**
+🔗 **[LIVE DEMO](https://wilkerhop.github.io/poc-writer-pro-brutalist/)**
 
 ## What Is This?
 
@@ -75,7 +75,7 @@ Shadows: 8px 8px 0 #000
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/poc-writer-pro-brutalist.git
+git clone https://github.com/wilkerHop/poc-writer-pro-brutalist.git
 cd poc-writer-pro-brutalist
 ```
 
@@ -105,7 +105,7 @@ This project is configured for automatic deployment to GitHub Pages via GitHub A
    git add .
    git commit -m "feat: neo-brutalist PoC writer pro"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/poc-writer-pro-brutalist.git
+   git remote add origin https://github.com/wilkerHop/poc-writer-pro-brutalist.git
    git push -u origin main
    ```
 
@@ -113,9 +113,6 @@ This project is configured for automatic deployment to GitHub Pages via GitHub A
    - Go to repository Settings → Pages
    - Source: GitHub Actions
    - The workflow will deploy automatically on push to `main`
-
-4. **Update the README**:
-   - Replace `YOUR_USERNAME` with your GitHub username in the badge and live demo links
 
 ## Project Structure
 
